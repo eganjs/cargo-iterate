@@ -2,6 +2,8 @@
 name = "cargo-iterate"
 version = "0.1.0"
 authors = ["Joseph Egan <joseph.s.egan@gmail.com>"]
+description = "Cargo subcommand to commit and version conventionally"
+license = "MIT"
 edition = "2018"
 
 [dependencies]
